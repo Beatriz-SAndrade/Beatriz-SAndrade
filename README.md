@@ -38,7 +38,7 @@ Qualquer dúvida/solicitação, pode entrar em contato comigo pelo e-mail:
 ✦ **Tatoca** ⇢ (*🔨 em desenvolvimento*) ***Projeto avulso:*** Possui como objetivo auxiliar a organizar finanças e tarefas domésticas, focando-se naqueles que moram com família ou amigos para evitar confusões na divisão de responsabilidades com a casa. 
 
 <p align="left">
-  <img src="./imgs/luffy_pitico.png" width="120">
+  <img src="./imgs/genya.png" width="150">
 </p>
 
 ---
